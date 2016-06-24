@@ -4,4 +4,4 @@ estate-python-web
 A python webapp.
 by hugh@16.6.24
 
-test rollback
+Git has a mutable index called stage.
